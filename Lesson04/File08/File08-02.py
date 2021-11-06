@@ -15,5 +15,4 @@ while x < 1000:
 
 print("Fibonacci sequence ended.")
 
-input("Press Enter to continue:")
 

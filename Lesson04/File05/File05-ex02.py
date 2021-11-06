@@ -31,5 +31,4 @@ print("You are now in a video game. There is a monster with 100 health.")
 
 
 
-input("Press Enter to continue:")
 

@@ -30,7 +30,6 @@ while x <= 100:
 print(f"The sum of the fractions (1/x), for x from 1 to 100, is {subtotal}")
 
 
-input("Press Enter to continue:")
 
 
 

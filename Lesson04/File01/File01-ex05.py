@@ -37,5 +37,4 @@
 print("Finished")
 
 
-input("Press Enter to continue:")
 

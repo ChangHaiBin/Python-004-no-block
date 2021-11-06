@@ -27,5 +27,4 @@ else:
     print("You reach 100 points. You win!")
 
 
-input("Press Enter to continue:")
 

@@ -15,7 +15,6 @@ while x < 100:
 print(f"The sum of all odd numbers from 1 to 99 is {subtotal}")
 
 
-input("Press Enter to continue:")
 
 
 

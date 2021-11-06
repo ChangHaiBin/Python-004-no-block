@@ -27,5 +27,4 @@ while x < 100000:    ### <<-- Modify this!
 print("Finished")
 
 
-input("Press Enter to continue:")
 

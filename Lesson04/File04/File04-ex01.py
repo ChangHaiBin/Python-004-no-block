@@ -29,7 +29,6 @@ while x < 100:
 print(f"The sum of all lucky-seven numbers from 1 to 50 is {subtotal}")
 
 
-input("Press Enter to continue:")
 
 
 

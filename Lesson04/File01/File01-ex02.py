@@ -21,5 +21,4 @@ while x < 10000:
 print("Finished")
 
 
-input("Press Enter to continue:")
 

@@ -15,7 +15,6 @@ while x < 20:
 print("Finished")
 
 
-input("Press Enter to continue:")
 
 
 # You can remove the "input("Press Enter to continue:")" if you are comfortable.

@@ -40,5 +40,4 @@ while x <= 100:
 print("Finished")
 
 
-input("Press Enter to continue:")
 

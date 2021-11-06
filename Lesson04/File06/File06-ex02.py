@@ -43,5 +43,4 @@ print("You are now at a bank")
 
 
 
-input("Press Enter to continue:")
 
